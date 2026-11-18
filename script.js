@@ -66,3 +66,4 @@ function playGame(winner) {
 
     return player + ' - ' + computer;
 }
+
